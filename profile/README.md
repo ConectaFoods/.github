@@ -1,12 +1,22 @@
-## Hi there 👋
+## Hi ConectaFoods 👋
 
-<!--
+🙋‍♀️ **¿Quiénes somos?**
+Somos ConectaFoods, una organización dedicada a conectar proveedores con compradores del área gastronómica. Nuestra misión es facilitar y optimizar las relaciones comerciales en el sector gastronómico a través de nuestra plataforma innovadora.
 
-**Here are some ideas to get you started:**
+🌐 **Proyecto Principal**
+Nuestro proyecto principal es la plataforma [conectafoods.com.uy](https://conectafoods.com.uy). A través de esta plataforma, buscamos crear un ecosistema dinámico y eficiente para el intercambio de productos y servicios gastronómicos.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌱 **Estado del Proyecto**
+Actualmente, estamos en las fases iniciales de desarrollo. ¡Todo está en construcción y lleno de posibilidades!
+
+🌈 **Contribuciones**
+Por ahora, no aceptamos contribuciones externas. A medida que avancemos, estaremos encantados de recibir el apoyo de la comunidad.
+
+👩‍💻 **Recursos Útiles**
+En este momento, no tenemos recursos adicionales para compartir. ¡Estén atentos para futuras actualizaciones!
+
+🍿 **Dato Curioso**
+¡Nos encanta Friends! Todos nuestros repositorios llevan el nombre de personajes de esta serie icónica.
+
+📬 **Contacto**
+Todavía no contamos con un correo institucional para contacto. Sin embargo, mantente al tanto para futuras formas de comunicación.
